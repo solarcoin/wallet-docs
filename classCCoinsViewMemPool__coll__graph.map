@@ -1,0 +1,8 @@
+<map id="CCoinsViewMemPool" name="CCoinsViewMemPool">
+<area shape="rect" id="node2" href="$classCCoinsViewBacked.html" title="CCoinsViewBacked" alt="" coords="14,276,153,303"/>
+<area shape="rect" id="node3" href="$classCCoinsView.html" title="CCoinsView" alt="" coords="5,179,100,206"/>
+<area shape="rect" id="node4" href="$classCTxMemPool.html" title="CTxMemPool" alt="" coords="177,276,280,303"/>
+<area shape="rect" id="node5" href="$classindirectmap.html" title="indirectmap\&lt; COutPoint,\l const CTransaction * \&gt;" alt="" coords="141,172,308,213"/>
+<area shape="rect" id="node6" href="$classCCriticalSection.html" title="CCriticalSection" alt="" coords="331,179,449,206"/>
+<area shape="rect" id="node7" href="$classAnnotatedMixin.html" title="AnnotatedMixin\&lt; boost\l::recursive_mutex \&gt;" alt="" coords="312,81,468,123"/>
+</map>

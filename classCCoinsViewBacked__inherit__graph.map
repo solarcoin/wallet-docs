@@ -1,0 +1,6 @@
+<map id="CCoinsViewBacked" name="CCoinsViewBacked">
+<area shape="rect" id="node3" href="$classCCoinsViewCache.html" title="CCoinsViewCache" alt="" coords="5,155,139,181"/>
+<area shape="rect" id="node4" href="$classCCoinsViewErrorCatcher.html" title="CCoinsViewErrorCatcher" alt="" coords="163,155,333,181"/>
+<area shape="rect" id="node5" href="$classCCoinsViewMemPool.html" title="CCoinsViewMemPool" alt="" coords="357,155,507,181"/>
+<area shape="rect" id="node2" href="$classCCoinsView.html" title="CCoinsView" alt="" coords="201,5,295,32"/>
+</map>

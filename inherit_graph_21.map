@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCBaseChainParams.html" title="CBaseChainParams" alt="" coords="5,56,147,83"/>
+<area shape="rect" id="node2" href="$classCBaseMainParams.html" title="CBaseMainParams" alt="" coords="206,5,341,32"/>
+<area shape="rect" id="node3" href="$classCBaseRegTestParams.html" title="CBaseRegTestParams" alt="" coords="195,56,352,83"/>
+<area shape="rect" id="node4" href="$classCBaseTestNetParams.html" title="CBaseTestNetParams" alt="" coords="196,107,351,133"/>
+</map>
